@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="ページ1" id="IMdF3h5-GWnTx5D7SRtW">
+    <mxGraphModel dx="891" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-1" value="開始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-2" value="ファイル選択ダアイアログを開く" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="60" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N88NCLTqVvOpJBLEnSg0-3" target="N88NCLTqVvOpJBLEnSg0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-3" value="ファイルを1件ずつ処理開始(ループ開始)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="130" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-4" value="Excelファイルを開く" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="200" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-5" value="1枚目のシートを選択する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="270" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-6" value="タイトル行とデータ行を配列で取得する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="340" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N88NCLTqVvOpJBLEnSg0-2" target="N88NCLTqVvOpJBLEnSg0-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="100" as="sourcePoint" />
+            <mxPoint x="190" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="240" as="sourcePoint" />
+            <mxPoint x="110" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109.88" y="310" as="sourcePoint" />
+            <mxPoint x="109.88" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109.88" y="30" as="sourcePoint" />
+            <mxPoint x="109.88" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-16" value="仮テーブルへ登録" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109.88" y="380" as="sourcePoint" />
+            <mxPoint x="109.88" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-18" value="Excelファイルを閉じる" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="480" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109.88" y="450" as="sourcePoint" />
+            <mxPoint x="109.88" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-20" value="取込完了メッセージ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="550" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109.88" y="520" as="sourcePoint" />
+            <mxPoint x="109.88" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109.88" y="590" as="sourcePoint" />
+            <mxPoint x="109.88" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N88NCLTqVvOpJBLEnSg0-24" value="終了" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="620" width="95" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
