@@ -1,0 +1,103 @@
+ファイル名	クラス名	行数	関数・プロパティ名	目的	呼び出し元	依存クラス	備考	不明点
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	CleanText	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	CleanNumber	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	CleanDate	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	TextToInteger	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	TextToLong	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	TextToSingle	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	TextToDouble	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	TextToCurrency	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	TextToDate	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	TextToBoolean	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	IsNumericStrict	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDataCleaner (2).txt	acc_clsDataCleaner (2)	171	IsDateStrict	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDbConnector.txt	acc_clsDbConnector	41	Init	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDbConnector.txt	acc_clsDbConnector	41	Get	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsDbConnector.txt	acc_clsDbConnector	41	ExecuteSQL	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	Init	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	Set	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	Get	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	Set	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	Get	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	Let	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	Let	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	Let	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	Let	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	Let	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	ImportFromArray	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	CommitToMain	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsExcelImporter (4).txt	acc_clsExcelImporter (4)	260	ImportFromWorksheet	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTableCleaner.txt	acc_clsTableCleaner	46	Init	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTableCleaner.txt	acc_clsTableCleaner	46	AddTable	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTableCleaner.txt	acc_clsTableCleaner	46	ClearAll	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTableTransfer.txt	acc_clsTableTransfer	69	Init	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTableTransfer.txt	acc_clsTableTransfer	69	AddSetting	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTableTransfer.txt	acc_clsTableTransfer	69	ExecuteAll	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTableUpdater.txt	acc_clsTableUpdater	111	Init	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTableUpdater.txt	acc_clsTableUpdater	111	UpdateFieldFromField	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTableUpdater.txt	acc_clsTableUpdater	111	UpdateFieldFromDiff	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTableUpdater.txt	acc_clsTableUpdater	111	UpdateFieldByConcat	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTableUpdater.txt	acc_clsTableUpdater	111	UpdateFieldWithCondition	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTransactionManager.txt	acc_clsTransactionManager	62	Init	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTransactionManager.txt	acc_clsTransactionManager	62	BeginTransaction	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTransactionManager.txt	acc_clsTransactionManager	62	Commit	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+acc_clsTransactionManager.txt	acc_clsTransactionManager	62	Rollback	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	Let	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	GetColIndex	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	CalculateOneRow	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	CalculateIfMatch	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	IsValueEqual	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	IsBlank	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	IsGreaterThan	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	IsBetween	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	Contains	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	StartsWith	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	EndsWith	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	GetValue	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsArrayHelper.txt	com_clsArrayHelper	185	GetNumericValue	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsCalcHelper.txt	com_clsCalcHelper	72	SafeAdd	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsCalcHelper.txt	com_clsCalcHelper	72	SafeSubtract	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsCalcHelper.txt	com_clsCalcHelper	72	SafeMultiply	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsCalcHelper.txt	com_clsCalcHelper	72	SafeDivide	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsCalcHelper.txt	com_clsCalcHelper	72	RoundToNDecimals	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsCalcHelper.txt	com_clsCalcHelper	72	FloorToNDecimals	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsCalcHelper.txt	com_clsCalcHelper	72	CeilToNDecimals	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsDateMath.txt	com_clsDateMath	183	Let	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsDateMath.txt	com_clsDateMath	183	Get	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsDateMath.txt	com_clsDateMath	183	Get	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsDateMath.txt	com_clsDateMath	183	GetYear	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsDateMath.txt	com_clsDateMath	183	GetMonth	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsDateMath.txt	com_clsDateMath	183	GetDay	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsDateMath.txt	com_clsDateMath	183	GetDateValue	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsDateMath.txt	com_clsDateMath	183	GetFiscalYear	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsDateMath.txt	com_clsDateMath	183	GetPeriod	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsDateMath.txt	com_clsDateMath	183	GetQuarter	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsDateMath.txt	com_clsDateMath	183	RoundToDigits	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsErrorUtility.txt	com_clsErrorUtility	122	Initialize	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsErrorUtility.txt	com_clsErrorUtility	122	LogError	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsErrorUtility.txt	com_clsErrorUtility	122	ShowAllErrors	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsErrorUtility.txt	com_clsErrorUtility	122	Get	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsErrorUtility.txt	com_clsErrorUtility	122	GetDefaultValue	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsFileHelper.txt	com_clsFileHelper	71	FileExists	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsFileHelper.txt	com_clsFileHelper	71	GetFileName	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsFileHelper.txt	com_clsFileHelper	71	GetFolder	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsFileHelper.txt	com_clsFileHelper	71	ReadTextFile	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsFileHelper.txt	com_clsFileHelper	71	WriteTextFile	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsStringHelper.txt	com_clsStringHelper	71	SplitToArray	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsStringHelper.txt	com_clsStringHelper	71	JoinArray	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsStringHelper.txt	com_clsStringHelper	71	ToUpper	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsStringHelper.txt	com_clsStringHelper	71	ToLower	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsStringHelper.txt	com_clsStringHelper	71	ContainsText	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+com_clsStringHelper.txt	com_clsStringHelper	71	ReplaceAll	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsRangeAccessor.txt	xl_clsRangeAccessor	52	RangeToArray	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsRangeAccessor.txt	xl_clsRangeAccessor	52	ArrayToRange	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsRangeAccessor.txt	xl_clsRangeAccessor	52	GetLastRow	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsRangeAccessor.txt	xl_clsRangeAccessor	52	GetLastColumn	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsSheetManager.txt	xl_clsSheetManager	32	SheetExists	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsSheetManager.txt	xl_clsSheetManager	32	GetSheet	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsSheetManager.txt	xl_clsSheetManager	32	UnprotectSheet	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsSheetManager.txt	xl_clsSheetManager	32	ProtectSheet	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsWorkbookManager.txt	xl_clsWorkbookManager	50	OpenWorkbook	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsWorkbookManager.txt	xl_clsWorkbookManager	50	CloseWorkbook	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsWorkbookManager.txt	xl_clsWorkbookManager	50	SaveWorkbook	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
+xl_clsWorkbookManager.txt	xl_clsWorkbookManager	50	SaveWorkbookAs	テーブルデータ処理の一部機能（自動補正、日付処理など）	mod_inp4_Icube など	DAO, com_clsCalcHelper など	分析完了（実処理内容に基づく）	
